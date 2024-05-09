@@ -1,4 +1,6 @@
 # prieto_figure_making
+This is my forked repository for Prieto_Figure_Making. 
+
 Plotting for characterization data. Include anything from figure making to Rietveld refinements. If you have a new code to make beautiful figures for papers, please share.
 ## Python Tutorial:
 #### Coding basics, importing, processing, and plotting battery related data
