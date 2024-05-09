@@ -1,4 +1,7 @@
-# prieto_figure_making
+# eQCM
+This is the code I used to import and plot eQCM characterization data. The data was collected using both a Gamry 3000 Potentiostat and a Gamry eQCM 10M https://www.gamry.com/support-2/legacy-devices/eqcm-quartz-crystal-microbalance-2/. 
+
+
 Plotting for characterization data. Include anything from figure making to Rietveld refinements. If you have a new code to make beautiful figures for papers, please share.
 ## Python Tutorial:
 #### Coding basics, importing, processing, and plotting battery related data
